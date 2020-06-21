@@ -1,0 +1,12 @@
+C:\Users\zdr\source\repos\CustomPizzaProgram\CustomPizzaProgram\bin\Debug\CustomPizzaProgram.exe.config
+C:\Users\zdr\source\repos\CustomPizzaProgram\CustomPizzaProgram\bin\Debug\CustomPizzaProgram.exe
+C:\Users\zdr\source\repos\CustomPizzaProgram\CustomPizzaProgram\bin\Debug\CustomPizzaProgram.pdb
+C:\Users\zdr\source\repos\CustomPizzaProgram\CustomPizzaProgram\obj\Debug\CustomPizzaProgram.csprojAssemblyReference.cache
+C:\Users\zdr\source\repos\CustomPizzaProgram\CustomPizzaProgram\obj\Debug\CustomPizzaProgram.Form1.resources
+C:\Users\zdr\source\repos\CustomPizzaProgram\CustomPizzaProgram\obj\Debug\CustomPizzaProgram.Properties.Resources.resources
+C:\Users\zdr\source\repos\CustomPizzaProgram\CustomPizzaProgram\obj\Debug\CustomPizzaProgram.csproj.GenerateResource.cache
+C:\Users\zdr\source\repos\CustomPizzaProgram\CustomPizzaProgram\obj\Debug\CustomPizzaProgram.exe
+C:\Users\zdr\source\repos\CustomPizzaProgram\CustomPizzaProgram\obj\Debug\CustomPizzaProgram.pdb
+C:\Users\zdr\source\repos\CustomPizzaProgram\CustomPizzaProgram\obj\Debug\CustomPizzaProgram.Form3.resources
+C:\Users\zdr\source\repos\CustomPizzaProgram\CustomPizzaProgram\obj\Debug\CustomPizzaProgram.Form2.resources
+C:\Users\zdr\source\repos\CustomPizzaProgram\CustomPizzaProgram\obj\Debug\CustomPizzaProgram.Form4.resources
